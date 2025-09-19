@@ -1,0 +1,115 @@
+name: alejandrina.ernser
+description: web-enabled
+version: 0.0.1
+author: 12fq9pur.ehb8ptzw@kuyrbb0a.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: alejandrinaernser
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:32:46'
+pipelines:
+  pipelines/deletedOnLeftModifiedOnRightSelectLeft:
+    name: deletedOnLeftModifiedOnRightSelectLeft
+    description: Really solid info
+    author: 12fq9pur.ehb8ptzw@kuyrbb0a.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:32:46'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/deletedOnLeftModifiedOnRightSelectRight:
+    name: deletedOnLeftModifiedOnRightSelectRight
+    description: Really solid info
+    author: 12fq9pur.ehb8ptzw@kuyrbb0a.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:32:46'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/deletedOnRightModifiedOnLeftSelectLeft:
+    name: deletedOnRightModifiedOnLeftSelectLeft
+    description: Really solid info
+    author: 12fq9pur.ehb8ptzw@kuyrbb0a.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:32:47'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/deletedOnRightModifiedOnLeftSelectRight:
+    name: deletedOnRightModifiedOnLeftSelectRight
+    description: Really solid info
+    author: 12fq9pur.ehb8ptzw@kuyrbb0a.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:32:47'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/unModifiedPipeline:
+    name: unModifiedPipeline
+    description: Really solid info
+    author: 12fq9pur.ehb8ptzw@kuyrbb0a.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-09-19 23:32:47'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:32:46'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:32:46.378624Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '2129821070'
+  createdAt: '2025-09-19T23:32:46.378624Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
